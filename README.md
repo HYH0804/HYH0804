@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=JunHyuck%20render&fontSize=90" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=JunHyuck&fontSize=90" />
+🌱 I’m currently learning ... ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 <!--
 **HYH0804/HYH0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
