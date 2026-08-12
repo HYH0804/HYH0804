@@ -1,3 +1,4 @@
+
 # 👋 반갑수다 현준혁이올시다.
 
 > 주된 시간을 삽질로 태우고 있는 개발자입니다. Backend에서 시작해서 Full Stack Developer를 목표로 공부하고 있습니다.
@@ -31,7 +32,6 @@
 ## 🛠️ Technologies & Tools
 
 ### 💻 Backend
-
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -41,7 +41,6 @@
 </p>
 
 ### 🌐 Frontend
-
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -58,7 +57,6 @@
 </p>
 
 ### 🚀 Infrastructure & Tools
-
 <p>
   <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -69,15 +67,15 @@
 ---
 
 ## 📕 Latest Blog Posts
-
-<a href="https://guswnsgur2276.tistory.com/135">ㅌㅅㅌ</a></br>
 <a href="https://guswnsgur2276.tistory.com/134">FIN:NECT 챌린지 공모전 본선 진출 후기</a></br>
 <a href="https://guswnsgur2276.tistory.com/133">[TIL] 1일차 웹 서비스 요청-응답 흐름과 프론트엔드 기본 문법</a></br>
 <a href="https://guswnsgur2276.tistory.com/130">kprintf 건국대 후기</a></br>
 <a href="https://guswnsgur2276.tistory.com/129">퇴사 통보 후 회고</a></br>
+<a href="https://guswnsgur2276.tistory.com/128">AWS 인프라 흐름</a></br>
+
 
 ---
-
 ## 📍 Profile Views
 
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=HYH0804)
+
