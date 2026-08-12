@@ -5,7 +5,7 @@ name: Readme Update
 on:
   workflow_dispatch:		// 🅰️ 깃허브 Actions 탭에서 수동 실행 버튼이 생김
   schedule:
-    - cron: "0 * * * *"		// 🅱️ 매시간 0분에 action 실행
+    - cron: "*/5 * * * *"		// 🅱️ 매시간 0분에 action 실행
 permissions:
   contents: write
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
