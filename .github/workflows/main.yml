@@ -4,8 +4,8 @@ on:
   # GitHub Actions 화면에서 수동 실행 버튼을 표시합니다.
   workflow_dispatch:
   schedule:
-    # 5분마다 실행합니다.
-    - cron: "*/5 * * * *"
+    # 1시간마다 실행합니다.
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
@@ -27,5 +27,5 @@ jobs:
           git add .
           git config --local user.email "guswnsgur2276@gmail.com"
           git config --local user.name "HYH0804"
-          git commit -m "Update README.md"
+          git diff --cached --quiet || git commit -m "Update README.md"
           git push
