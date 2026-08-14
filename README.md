@@ -89,11 +89,11 @@ Backend에서 시작해서 Full Stack Developer를 목표로 공부하고 있습
 <h2>📕 Latest Blog Posts</h2>
 
 <p>
+<a href="https://guswnsgur2276.tistory.com/137">나만의 JS 노트</a><br>
 <a href="https://guswnsgur2276.tistory.com/136">스위프 우수수료 세션 발표 강연자로 참여하다</a><br>
 <a href="https://guswnsgur2276.tistory.com/134">FIN:NECT 챌린지 공모전 본선 진출 후기</a><br>
 <a href="https://guswnsgur2276.tistory.com/133">[TIL] 1일차 웹 서비스 요청-응답 흐름과 프론트엔드 기본 문법</a><br>
 <a href="https://guswnsgur2276.tistory.com/130">kprintf 건국대 후기</a><br>
-<a href="https://guswnsgur2276.tistory.com/129">퇴사 통보 후 회고</a><br>
 
 </p>
 
