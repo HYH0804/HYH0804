@@ -5,7 +5,7 @@
 
 <p>
 주된 시간을 삽질로 태우고 있는 개발자입니다.<br>
-Backend에서 시작해서 Full Stack Developer를 목표로 공부하고 있습니다.
+Backend에서 시작해서 Full Stack Developer를 목표로 공부하고 있습니다
 </p>
 
 <hr>
